@@ -1,0 +1,11 @@
+
+.login h1 a {
+	background: url('./../assets/images/logo.png') no-repeat;
+	width: 282px;
+	height: 129px;
+	margin: 0 auto;
+	display: none;
+}
+
+
+body{min-height: 100vh; background-image: url("./../assets/images/background_v3.jpg"); background-size: cover; background-attachment: fixed;}
